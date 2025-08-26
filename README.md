@@ -11,9 +11,9 @@ Aplicación de gestión de ventas desarrollada en SwiftUI como parte de mi trans
 
 ## 🛠 Tecnologías
 
-- **SwiftUI** - Framework de UI declarativo
-- **Swift 5.5** - Lenguaje de programación
-- **MVVM** - Patrón de arquitectura
+- **SwiftUI** - 
+- **Swift 5.5** - 
+- **MVVM** - 
 
 ## 📱 Funcionalidades
 
