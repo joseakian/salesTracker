@@ -34,6 +34,18 @@ Como profesional con experiencia en ventas, identifiqué la necesidad de una her
 - Formularios y validación de datos
 - Diseño de UI/UX enfocado en usabilidad
 
+
+## Screenshots
+
+<img width="425" height="940" alt="image" src="https://github.com/user-attachments/assets/9813ad3e-ffe7-4f70-b404-f54e50a0f831" />
+<img width="425" height="940" alt="image" src="https://github.com/user-attachments/assets/0793d8d8-e2f7-4aef-bf4c-a2f71418832b" />
+<img width="425" height="940" alt="image" src="https://github.com/user-attachments/assets/326cb385-9b96-4834-906d-c0880eb70c20" />
+<img width="425" height="940" alt="image" src="https://github.com/user-attachments/assets/0a6c0e5e-c78b-4ca2-98ba-865de1b446ef" />
+
+
+
+
+
 ## 📧 Contacto
 
 Jose Serrano - serrano.j.4571@gmail.com
